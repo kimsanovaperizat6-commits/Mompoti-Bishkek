@@ -1,0 +1,7 @@
+{
+  "name": "mompoti — Детская мебель и декор",
+  "description": "Бөбөктөр үчүн жайлуу дүйнө жаратабыз. Балдар эмеректери жана декор Кыргызстанда • Детская мебель и декор mompoti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
